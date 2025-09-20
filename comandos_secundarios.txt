@@ -1,2 +1,5 @@
 esse arquivo contém informações adicionais para
 Hello World rsrs
+
+# Comandos mais genéricos
+- Comandos estranhos
