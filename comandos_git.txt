@@ -1,6 +1,6 @@
-gir init . -> cria um repositório na pasta atual
-git status -> mostra o status do trabalho de cada arquivo git add 
-nome_arquivo -> adiciona arquivo para ser commitado
+gir init .          -> cria um repositório na pasta atual
+git status          -> mostra o status do trabalho de cada arquivo git add 
+nome_arquivo        -> adiciona arquivo para ser commitado
 git commit -m "msg" -> faz commit
-git log -^mostra o histórico
+git log             -> mostra o histórico
 
